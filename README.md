@@ -1,7 +1,7 @@
 # Trabalho Prático 04
 
 1. Elabore um programa em Java que apresente um frame semelhante ao que se segue:
-  <img src="assets/modelo_frame.png" />
+  ![Modelo Frame](assets/modelo_frame.png)
    
 2. Deverá criar um banco SQL chamado aulajava com as tabelas conforme o esquema abaixo:
    ### tbcargos * 
