@@ -22,7 +22,7 @@
 
    ```mermaid
    erDiagram
-   tbfuncs }o--|| TBCARGOS : "cod_cargo"
+   tbfuncs }o--|| tbcargos : "cod_cargo"
    ```
 <br/>
 
