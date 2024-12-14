@@ -31,4 +31,8 @@
 5. Ao clicar no botão Pesquisar, deverá ser efetuado o select (utilize like) para “preencher” um recordset e PreparedStatement para fazer o SQL.
 6. Os botões Próximo e Anterior devem permitir a navegação pelo recordset até os limites inicial e final.
 
+<hr>
+
+Clique [aqui](https://www.youtube.com/watch?v=VY_InevRAqo) para vizualizar a playlist com os programas funcionando.
+
 ### Desenvolvido por Beatriz Bastos Borges e Miguel Luizatto Alves
