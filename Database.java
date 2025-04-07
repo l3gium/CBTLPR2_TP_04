@@ -1,7 +1,6 @@
 import java.sql.*;
 
 public class Database {
-    //teste
     private static final String CONNECTION_STRING = 
             "jdbc:sqlserver://DESKTOP-A7BJJV6\\SQLEXPRESS;Database=aulajava;IntegratedSecurity=true;encrypt=true;trustServerCertificate=true";
 
